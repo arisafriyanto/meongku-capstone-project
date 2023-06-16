@@ -12,35 +12,35 @@ Meongku Android App is a mobile application designed to help pet owners better u
 ## Screenshots
 
 <p align="center">
-  <img src="Images/onboarding.jpg" width="200">
-  <img src="Images/register.jpg" width="200">
-  <img src="Images/login.jpg" width="200">
-  <img src="Images/home.jpg" width="200">
+  <img src="images/onboarding.jpg" width="200">
+  <img src="images/register.jpg" width="200">
+  <img src="images/login.jpg" width="200">
+  <img src="images/home.jpg" width="200">
 </p>
 
 <p align="center">
-  <img src="Images/article.jpg" width="200">
-  <img src="Images/article-detail.jpg" width="200">
-  <img src="Images/cat-profile.jpg" width="200">
+  <img src="images/article.jpg" width="200">
+  <img src="images/article-detail.jpg" width="200">
+  <img src="images/cat-profile.jpg" width="200">
 </p>
 
 <p align="center">
-  <img src="Images/cat-detail.jpg" width="200">
-  <img src="Images/scan.jpg" width="200">
-  <img src="Images/scan-result.jpg" width="200">
+  <img src="images/cat-detail.jpg" width="200">
+  <img src="images/scan.jpg" width="200">
+  <img src="images/scan-result.jpg" width="200">
 </p>
 
 <p align="center">
-  <img src="Images/cat-produk-rec.jpg" width="200">
-  <img src="Images/rec-result.jpg" width="200">
-  <img src="Images/edit-profile.jpg" width="200">
+  <img src="images/cat-produk-rec.jpg" width="200">
+  <img src="images/rec-result.jpg" width="200">
+  <img src="images/edit-profile.jpg" width="200">
 </p>
 
 <p align="center">
-  <img src="Images/dark-mode.jpg" width="200">
-  <img src="Images/close-app.jpg" width="200">
-  <img src="Images/edit-password.png" width="200">
-  <img src="Images/profile.jpg" width="200">
+  <img src="images/dark-mode.jpg" width="200">
+  <img src="images/close-app.jpg" width="200">
+  <img src="images/edit-password.png" width="200">
+  <img src="images/profile.jpg" width="200">
 </p>
 
 ## Requirement
